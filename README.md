@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 ![flytam's github stats](https://github-readme-stats.vercel.app/api?username=flytam&count_private=true&show_icons=true)
 
+[github](https://github.com/flytam)｜ [掘金](https://juejin.cn/user/289926799429704) | [leetcode](https://leetcode-cn.com/u/flytam/) | [csdn](https://blog.csdn.net/flytam) | [知乎](https://www.zhihu.com/people/tan-jia-hui-19) | 微信公众号：CodeForYou
